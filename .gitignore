@@ -1,0 +1,11 @@
+# .gitignore
+
+# folders
+out/
+dist-newstyle/
+
+# files
+build.cabal
+*.exe
+*.o
+*.hi
